@@ -40,33 +40,24 @@ A planilha deve conter, no mínimo, as colunas:
 1. Instale as dependências:
 
    ```bash
-   npm install
+    npm install
 
-Inicie o bot:
+## inicie o bot
 
-bash
-npm start
-No terminal, será exibido um QR Code.
+   ```bash
+   npm start
 
-Abra o WhatsApp no ​​celular → Configurações → Aparelhos conectados → Conectar um aparelho.
+Quando o terminal mostra o QR Code:
 
-Aponte a câmera para o QR Code.
+Abra o WhatsApp no ​​celular → Configurações → Aparelhos conectados → Conectar um aparelho .
 
-Após conectar, o script irá:
+Aponte a câmera para o QR Code exibido.
+Boas práticas e uso responsável
+Este projeto foi criado com fins educacionais e demonstra como automatizar envios usando o WhatsApp Web.
+Antes de usar em produção, considere:
 
-Ler todos os registros da planilha.
+Enviar mensagens apenas para contatos que autorizaram a coleta.
 
-Envie uma mensagem de texto personalizada.
+Respeitar limites de envio do WhatsApp para evitar bloqueios de conta.
 
-Se houver arquivo, envie a mídia correspondente.
-
-Respeite intervalos aleatórios entre mensagens e entre contatos.
-
-Avisos importantes
-Use este projeto apenas com contatos que autorizaram a coleta de mensagens.
-
-Envios em massa e sem consentimento podem resultar no bloqueio da conta pelo WhatsApp.
-
-Este repositório tem fins exclusivamente educacionais.
-
-
+Personalize o conteúdo da mensagem para entregar algo útil para quem recebe.
