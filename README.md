@@ -61,3 +61,11 @@ Enviar mensagens apenas para contatos que autorizaram a coleta.
 Respeitar limites de envio do WhatsApp para evitar bloqueios de conta.
 
 Personalize o conteúdo da mensagem para entregar algo útil para quem recebe.
+
+---
+
+Projeto mantido por **Diego Souza** ([dszcdev](https://github.com/dszcdev)).
+
+Entre em contato:
+
+[📲 Falar comigo no WhatsApp](https://wa.me/5511960621180)
