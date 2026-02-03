@@ -64,8 +64,6 @@ Respeitar limites de envio do WhatsApp para evitar bloqueios de conta.
 Personalize o conteúdo da mensagem para entregar algo útil para quem recebe.
 
 Projeto suspenso de Diego Souza (dszcdev).
-
-[📲 Falar comigo no WhatsApp] (https://wa.me/5511960621180)
 ---
 
 ## Contato
