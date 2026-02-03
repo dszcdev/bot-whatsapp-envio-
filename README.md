@@ -66,3 +66,10 @@ Personalize o conteúdo da mensagem para entregar algo útil para quem recebe.
 Projeto suspenso de Diego Souza (dszcdev).
 
 [📲 Falar comigo no WhatsApp] (https://wa.me/5511960621180)
+---
+
+## Contato
+
+<a href="https://wa.me/5511960621180" target="_blank">
+  <img src="https://img.shields.io/badge/Falar%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Falar comigo no WhatsApp">
+</a>
