@@ -46,12 +46,13 @@ A planilha deve conter, no mínimo, as colunas:
 
    ```bash
    npm start
+   ```
+   Quando o terminal mostra o QR Code:
 
-Quando o terminal mostra o QR Code:
-
-Abra o WhatsApp no ​​celular → Configurações → Aparelhos conectados → Conectar um aparelho .
+Abra o WhatsApp no ​​celular → Configurações → Aparelhos conectados → Conectar um aparelho.
 
 Aponte a câmera para o QR Code exibido.
+
 Boas práticas e uso responsável
 Este projeto foi criado com fins educacionais e demonstra como automatizar envios usando o WhatsApp Web.
 Antes de usar em produção, considere:
@@ -62,10 +63,6 @@ Respeitar limites de envio do WhatsApp para evitar bloqueios de conta.
 
 Personalize o conteúdo da mensagem para entregar algo útil para quem recebe.
 
----
+Projeto suspenso de Diego Souza (dszcdev).
 
-Projeto mantido por **Diego Souza** ([dszcdev](https://github.com/dszcdev)).
-
-Entre em contato:
-
-[📲 Falar comigo no WhatsApp](https://wa.me/5511960621180)
+[📲 Falar comigo no WhatsApp] (https://wa.me/5511960621180)
