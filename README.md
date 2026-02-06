@@ -66,7 +66,8 @@ Personalize o conteúdo da mensagem para entregar algo útil para quem recebe.
 Projeto de Diego Souza (dszcdev).
 ---
 
-[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/BR-R7-Dggs4/0.jpg)](https://www.youtube.com/watch?v=BR-R7-Dggs4)
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/acqk0MjVd24/0.jpg)](https://www.youtube.com/watch?v=acqk0MjVd24)
 
 
 ## Contato
